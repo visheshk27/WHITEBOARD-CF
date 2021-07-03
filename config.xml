@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    version     = "1.0.0" >
+
+
+
+  <name>Online Whiteboard</name>
+
+  <description>
+      Draw any shape or write anything in whichever colour you need. You get a pencil and an eraser (Magic Wand Icon).
+  </description>
+
+  
+      <!-- @CRACKINGFACTORY -->
+  </author>
+	<icon src="icon.png" />
+</widget>
